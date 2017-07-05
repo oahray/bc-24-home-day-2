@@ -1,0 +1,24 @@
+{
+  "name": "bc-24-home-day-2",
+  "version": "1.0.0",
+  "description": "This repository contains solution to the task for Home Day 2 of the Andela Bootcamp.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oahray/bc-24-home-day-2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oahray/bc-24-home-day-2/issues"
+  },
+  "homepage": "https://github.com/oahray/bc-24-home-day-2#readme",
+  "dependencies": {
+    "axios": "^0.16.2"
+  }
+}
